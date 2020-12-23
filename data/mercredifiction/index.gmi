@@ -1,0 +1,177 @@
+# Mercredi fiction
+
+## Qu'est-ce ?
+C'est une des pratiques de Mastodon. Le mercredi, des gens écrivent une fiction, à priori en moins de 500 caractères.
+
+Mais les pouets multiples ne sont pas interdits, les abonné-e-s aux instances pleroma ont eux 5000 caracteres disponibles.
+
+## le projet d'archivage
+Plusieurs personnes avaient demandé si on pouvait publier ces pouètes sous d'autres formats (la demande initiale était pour créer un « ebook »).
+
+Stéphane Bortzmeyer a créé un petit programme pour les publier en EPUB et HTML.
+un de ces articles [Les #MercrediFiction de Mastodon, techniques pour les traduire dans d'autres formats](https://www.bortzmeyer.org/mastodon-mercredifiction.html) explique la démarche.
+
+On peut retrouver la liste des *"Mercredi Fiction"* au format [html](https://mercredifiction.bortzmeyer.org/#HTML) ou au format [EPUB](https://mercredifiction.bortzmeyer.org/) et le code le dépot [Framagit](https://framagit.org/bortzmeyer/MercrediFiction/) de Stephane Bortzmeyer.
+
+Un matin de Juin 2020 je me suis lancé et j'ai du coup trouvé un probeme qui a donné lieu à l'ouverture [d'une issue](https://framagit.org/bortzmeyer/MercrediFiction/-/issues/12)
+
+## Mes MercrediFiction
+
+### **24-06-2020**
+
+!!! note ""
+
+    Cher **utilisateur**,
+
+    Merci de nous avoir fait confiance avec l’achat de cette merveilleuse machine i7 32Go 512GO.
+
+    Suite à l’analyse de son utilisation par vous, nous sommes en mesure de vous annoncer que nous vous proposons de la remplacer gratuitement par un Arm A7 2Go 64GO.
+
+    Cette machine sera plus économe en énergie et conviendra parfaitement à votre utilisation dans 99,9 % des cas.
+
+    Pour les 0.1 % restant nous vous proposons de vous adresser à une de nos boutique de location.
+
+    Veuillez noter que suite à cet échange vous bénéficierez d’un avoir équivalent à la différence de coût.
+
+    Espérant vous rendre service, ainsi qu’à la planète
+
+    Service clientèle de votre fournisseur *préféré*.
+
+### **01-07-2020**
+
+!!! note ""
+
+    min: Ĉu vi konas Nixos?
+
+    Gŭi: ne
+
+    min: Saluton Gŭi
+
+    Nixos estas moderna Linuksa distribuo, uzanta tre originalan paksistemon bazitan sur funkcia lingvo.
+
+    Ŝuo: Mi preferas Guix sistemo.
+
+    min: Mi konas Guix , ĝi estas forko de Nixos, tre interesa ankaŭ sed limiga por mia aparataro. Sed la komunumo estas tro malgranda, mi neniam renkontis homojn uzantajn ĝin ĉi tie en Svislando
+
+    Do mi preferas uzi Nixos, mi verkis malgrandajn artikolojn pri Nixos kaj Guix.
+
+    Se vi legis la malnovan francan lingvon mortintan ekde 2056 legu.
+
+### **15-07-2020**
+
+!!! note ""
+    Aujourd'hui Mercredi 15 août 2021 4:01
+    j'ai perdu ma route.
+
+    Depuis le Dimanche 12 mai 02:02 la constellation des satellites 'GPS' a disparu.
+
+    Lundi 30 juin 02:02 le consortium Galileo a annoncé avoir perdu le contact avec sa constellation.
+
+    Lundi 13 juillet 23:23 les vingt-quatre satellites Glonass se sont éteints les un après les autres..
+
+    Seul le système beidou-3 est encore disponible.
+
+    Mais non utilisable par les smartphones Americans et Européen suites aux tensions sino_occidentales
+
+    Mais les Xaomi, Huawei ont des positionnements actifs.
+
+    Pour combien de temps encore?
+
+    Pourrons nous vivre **sans GNSS**, sans savoir où nous sommes?
+
+### **29-07-2020**
+
+!!! note ""
+    Dans la journée du 1 Août, notre opérateur historique annoncera la reprise des livraisons des Minitels 13.
+
+    Ces formidables terminaux intégrent dans leur dernière mouture un Android 27, la version ChromeOs 275, Windows 13 et la toute nouvelle technologie de container CLX l'évolution de lcx.
+
+    La facturation est toujours au temps, mais on a le temps, le débit est incroyable 300 Gbps montant, 1Tbps descendant.
+
+    Le téléchargement de mes journaux est immédiat.
+    Mais impossible de papoter en ligne.
+
+    On attend avec impatience une facturation au Traffic.
+    Annoncé pour dans 5 ans, le temps de négocier avec les services de l'internet.
+
+### **12-08-2020**
+
+!!! note ""
+    Bonjour Fediverse 🤗
+    Bonan matenon Fediverso 🤓
+
+    Nous sommes le 12 août 2056, demain je vais avoir 100 ans. Et pour mon anniversaire mes arrières petits enfants vont tomber le masque.
+
+    Je vais enfin voir leur frimousse souriante.
+
+    Depuis plus de dix ou vingt ans , je ne souviens plus de la date exacte, nous le portons lors de chacune de nos sorties quotidiennes car il paraît que je suis une personne à risque, le nombre d'extension bionique est trop important.
+
+    Tout cela à cause d'une mutation étonnante d'un ver bien connu sous la Fenestre, le nouveau Windows, qui maintenant s'attaque au S.E de mon respirateur.
+
+    Mais pour cette réunion de famille j'ai décidé de braver l'interdiction.
+
+    Je vous tiendrai au courant de l'évolution de la situation.
+
+    Bonne journée.
+    Hydratez vous et surtout n'oubliez pas de recharger vos batteries
+
+### **26-08-2020**
+
+!!! note ""
+    En ce 26 août 2070 nous fêtons le 100 ième anniversaire de la naissance du M.L.F. .
+
+    Quel incroyable chemin parcouru depuis ce jour de 1970 ou nous avions déposé une gerbe sur la tombe du soldat inconnu.
+
+    Qui aujourd'hui se souvient de l'épitaphe de la gerbe .
+
+    "**Il y a plus inconnu que le soldat inconnu : sa femme**"
+
+    Rappelons nous
+
+    - c'est seulement en 1970 qu'est supprimé la notion de chef de famille ( mâle biensûr).
+    - que la fin du XX ième siècle fut un long combat pour l'égalité des sexes.
+    - que malgré les prédictions le XXI?me siècle n'est pas encore le siècle des filles et des femmes.
+
+    Nous sommes sur la bonne voie, les différences de salaire n'existent plus. Les femmes ont pris une grande place dans la politique et demain la gestion de la planète sera enfin retiré des mains dispencieuses des hommes.
+
+    Mais les violences sont toujours là, la lutte n'est pas finie.
+
+### **28-10-2020**
+
+!!! note ""
+    Mon humain est d'une humeur terrible.
+
+    Il vient de comprendre que je lis, pense et écris.
+
+    Pourquoi a t il cru que ce n'était que lui?
+
+    Il n'avait pas réalisé que m'accepter dans son enveloppe corporel aurait une contrepartie.
+
+    Je lui donne des pouvoirs dignes des magicien•e•s, chaque jour il en profite.
+
+    N'est il pas normal que de temps à autre je prenne quelques libertés, exprimant des opinions parfois opposées aux siennes.
+
+### **18-11-2020**
+
+!!! note ""
+    En ce troisième mercredi de Novembre
+
+    Le climat est serein au parlement.
+
+    Pas de tempête annoncée.
+
+    Pas de nouvelle guerre aujourd'hui.
+
+    On peut reposer en paix. **Tout va bien**.
+
+
+### **16-12-2020**
+
+!!! note ""
+    Ce matin 16 décembre, une nouvelle est tombée.     
+
+    Jeff a donné **175** Milliards de Dollars à des associations caritatives.    Pour que la bourse ne s’effondre pas, un transfert d’action sera organisé à grande échelle .
+
+    Il garde 3,8 millions d’action et son poste de CEO. Ce qui ne fera pas de lui un pauvre.
+
+    Sera t il un des précurseurs du changement du [capitalisme](https://fr.wikipedia.org/wiki/Capitalisme)…

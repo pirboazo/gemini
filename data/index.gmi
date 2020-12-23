@@ -1,0 +1,23 @@
+# Bienvenue sur gemini.boizot.ch
+
+## Quelques Mots 
+
+Cette page est dédiée à la découverte du protocole gemini. je vais dans cette page tenter de décrire les objectifs de ce projet.
+
+* todo
+
+Puis de décrire l'installation
+
+*  d'un client gemini. 
+*  d'un serveur
+
+=> gemini://gemini.boizot.ch/client.gmi l'installation client
+=> gemini://gemini.boizot.ch/serveur.gmi l'installation serveur
+
+## Les liens
+=> gemini://gemini.circumlunar.space/ Le site du Projet Gemini
+=> gemini://gemini.bortzmeyer.org/ Bortzmeyer.org [en] 
+=> gemini://gemeaux.bortzmeyer.org/ Bortzmeyer.org [fr] 
+
+=> http://www.boizot.ch/ mon site perso 
+

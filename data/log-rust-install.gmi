@@ -1,0 +1,84 @@
+
+### Installation de rust 
+
+curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+info: downloading installer
+
+Welcome to Rust!
+
+This will download and install the official compiler for the Rust
+programming language, and its package manager, Cargo.
+
+Rustup metadata and toolchains will be installed into the Rustup
+home directory, located at:
+
+  /home/pi/.rustup
+
+This can be modified with the RUSTUP_HOME environment variable.
+
+The Cargo home directory located at:
+
+  /home/pi/.cargo
+
+This can be modified with the CARGO_HOME environment variable.
+
+The cargo, rustc, rustup and other commands will be added to
+Cargo's bin directory, located at:
+
+  /home/pi/.cargo/bin
+This path will then be added to your PATH environment variable by
+modifying the profile files located at:
+
+  /home/pi/.profile
+  /home/pi/.bashrc
+
+You can uninstall at any time with rustup self uninstall and
+these changes will be reverted.
+
+Current installation options:
+
+
+   default host triple: armv7-unknown-linux-gnueabihf
+     default toolchain: stable (default)
+               profile: default
+  modify PATH variable: yes
+
+1) Proceed with installation (default)
+2) Customize installation
+3) Cancel installation
+>1
+
+info: profile set to 'default'
+info: default host triple is armv7-unknown-linux-gnueabihf
+info: syncing channel updates for 'stable-armv7-unknown-linux-gnueabihf'
+info: latest update on 2020-11-19, rust version 1.48.0 (7eac88abb 2020-11-16)
+info: downloading component 'cargo'
+info: downloading component 'clippy'
+info: downloading component 'rust-std'
+info: downloading component 'rustc'
+ 66.8 MiB /  66.8 MiB (100 %)  36.6 MiB/s in  8s ETA:  0s
+info: downloading component 'rustfmt'
+info: installing component 'cargo'
+info: using up to 500.0 MiB of RAM to unpack components
+info: installing component 'clippy'
+info: installing component 'rust-std'
+ 18.2 MiB /  18.2 MiB (100 %)   4.5 MiB/s in  4s ETA:  0s
+  4 IO-ops /   4 IO-ops (100 %)   0 IOPS in  8s ETA: Unknown
+info: installing component 'rustc'
+ 66.8 MiB /  66.8 MiB (100 %)   4.6 MiB/s in 17s ETA:  0s
+  9 IO-ops /   9 IO-ops (100 %)   1 IOPS in  9s ETA:  0s    
+info: installing component 'rustfmt'
+info: default toolchain set to 'stable-armv7-unknown-linux-gnueabihf'
+
+  stable-armv7-unknown-linux-gnueabihf installed - rustc 1.48.0 (7eac88abb 2020-11-16)
+
+
+Rust is installed now. Great!
+
+To get started you need Cargo's bin directory ($HOME/.cargo/bin) in your PATH
+environment variable. Next time you log in this will be done
+automatically.
+
+To configure your current shell, run:
+source $HOME/.cargo/env
+

@@ -1,0 +1,139 @@
+
+
+### Installation d'agate
+
+
+pi@raspiweb01:~ $ cargo install agate
+    Updating crates.io index
+  Downloaded agate v1.3.2
+  Downloaded 1 crate (14.4 KB) in 0.56s
+  Installing agate v1.3.2
+  Downloaded tinyvec_macros v0.1.0
+  Downloaded unicase v2.6.0
+  Downloaded polling v2.0.2
+  Downloaded matches v0.1.8
+  Downloaded async-tls v0.11.0
+  Downloaded vec-arena v1.0.0
+  Downloaded autocfg v1.0.1
+  Downloaded atomic-waker v1.0.0
+  Downloaded unicode-normalization v0.1.16
+  Downloaded async-channel v1.5.1
+  Downloaded pin-utils v0.1.0
+  Downloaded parking v2.0.0
+  Downloaded once_cell v1.5.2
+  Downloaded log v0.4.11
+  Downloaded percent-encoding v2.1.0
+  Downloaded futures-io v0.3.8
+  Downloaded pin-project-lite v0.2.0
+  Downloaded cache-padded v1.1.1
+  Downloaded sct v0.6.0
+  Downloaded tinyvec v1.1.0
+  Downloaded idna v0.2.0
+  Downloaded url v2.2.0
+  Downloaded blocking v1.0.2
+  Downloaded base64 v0.13.0
+  Downloaded mime v0.3.16
+  Downloaded futures-lite v1.11.3
+  Downloaded concurrent-queue v1.2.2
+  Downloaded async-mutex v1.4.0
+  Downloaded rustls v0.19.0
+  Downloaded waker-fn v1.1.0
+  Downloaded untrusted v0.7.1
+  Downloaded num_cpus v1.13.0
+  Downloaded spin v0.5.2
+  Downloaded webpki v0.21.4
+  Downloaded crossbeam-utils v0.8.1
+  Downloaded memchr v2.3.4
+Downloaded libc v0.2.81
+  Downloaded atty v0.2.14
+  Downloaded version_check v0.9.2
+  Downloaded unicode-bidi v0.3.4
+  Downloaded slab v0.4.2
+  Downloaded cfg-if v0.1.10
+  Downloaded futures-core v0.3.8
+  Downloaded cc v1.0.66
+  Downloaded async-executor v1.4.0
+  Downloaded form_urlencoded v1.0.0
+  Downloaded kv-log-macro v1.0.7
+  Downloaded ring v0.16.19
+  Downloaded async-global-executor v1.4.3
+  Downloaded async-io v1.3.1
+  Downloaded termcolor v1.1.2
+  Downloaded async-task v4.0.3
+  Downloaded async-std v1.8.0
+  Downloaded nb-connect v1.0.2
+  Downloaded mime_guess v2.0.3
+  Downloaded humantime v2.0.1
+  Downloaded cfg-if v1.0.0
+  Downloaded env_logger v0.8.2
+  Downloaded lazy_static v1.4.0
+  Downloaded fastrand v1.4.0
+  Downloaded event-listener v2.5.1
+  Downloaded 61 crates (7.6 MB) in 9.78s (largest was `ring` at 5.2 MB)
+  Compiling libc v0.2.81
+   Compiling once_cell v1.5.2
+   Compiling log v0.4.11
+   Compiling cfg-if v0.1.10
+   Compiling futures-core v0.3.8
+   Compiling memchr v2.3.4
+   Compiling version_check v0.9.2
+   Compiling cc v1.0.66
+   Compiling cache-padded v1.1.1
+   Compiling futures-io v0.3.8
+   Compiling fastrand v1.4.0
+   Compiling waker-fn v1.1.0
+   Compiling parking v2.0.0
+   Compiling pin-project-lite v0.2.0
+   Compiling untrusted v0.7.1
+   Compiling spin v0.5.2
+   Compiling vec-arena v1.0.0
+   Compiling async-task v4.0.3
+   Compiling matches v0.1.8
+   Compiling event-listener v2.5.1
+   Compiling autocfg v1.0.1
+   Compiling tinyvec_macros v0.1.0
+   Compiling atomic-waker v1.0.0
+   Compiling base64 v0.13.0
+   Compiling percent-encoding v2.1.0
+   Compiling lazy_static v1.4.0
+   Compiling cfg-if v1.0.0
+   Compiling termcolor v1.1.2
+   Compiling slab v0.4.2
+   Compiling mime v0.3.16
+   Compiling pin-utils v0.1.0
+   Compiling humantime v2.0.1
+   Compiling concurrent-queue v1.2.2
+   Compiling unicase v2.6.0
+   Compiling unicode-bidi v0.3.4
+   Compiling async-mutex v1.4.0
+   Compiling tinyvec v1.1.0
+   Compiling form_urlencoded v1.0.0
+   Compiling ring v0.16.19
+   Compiling crossbeam-utils v0.8.1
+   Compiling async-channel v1.5.1
+   Compiling kv-log-macro v1.0.7
+   Compiling unicode-normalization v0.1.16
+   Compiling futures-lite v1.11.3
+   Compiling nb-connect v1.0.2
+   Compiling polling v2.0.2
+   Compiling num_cpus v1.13.0
+   Compiling atty v0.2.14
+   Compiling idna v0.2.0
+   Compiling async-executor v1.4.0
+   Compiling async-io v1.3.1
+   Compiling blocking v1.0.2
+   Compiling env_logger v0.8.2
+   Compiling mime_guess v2.0.3
+   Compiling url v2.2.0
+   Compiling async-global-executor v1.4.3
+   Compiling async-std v1.8.0
+   Compiling webpki v0.21.4
+   Compiling sct v0.6.0
+   Compiling rustls v0.19.0
+   Compiling async-tls v0.11.0
+   Compiling agate v1.3.2
+    Finished release [optimized] target(s) in 6m 16s
+  Installing /home/pi/.cargo/bin/agate
+   Installed package `agate v1.3.2` (executable `agate`)
+   
+   

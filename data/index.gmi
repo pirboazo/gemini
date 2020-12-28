@@ -11,12 +11,12 @@ Puis de décrire l'installation
 *  d'un client gemini.
 *  d'un serveur
 
-=> gemini://gemini.boizot.ch/installation/client.gmi l'installation client
-=> gemini://gemini.boizot.ch/installation/serveur.gmi l'installation serveur
+=> installation/client.gmi l'installation client
+=> installation/serveur.gmi l'installation serveur
 
-## mes Mercredi fictions
+## Mes Mercredi fictions
 
-=> gemini://gemini.boizot.ch/mercredifiction/ Lire
+=> mercredifiction/ Lire
 
 
 ## Les liens

@@ -3,37 +3,35 @@
 
 J'ai choisi d'installer le serveur : agate
 
-Toutes les informations sur le processus d'installation sont sur le site de 
+Toutes les informations sur le processus d'installation sont sur le site de
 => https://github.com/mbrubeck/agate/ github de agate
 
 ## Pre-requis
 
-* agate est un serveur developpé en rust donc il faut installer rust 
+* agate est un serveur developpé en rust donc il faut installer rust
 
 * gemini a besoin d'un certificat  self signed où letsencrypt ....
 
 Le serveur sur une requete renvoie le contenu du fichier ou le contenu de index.gmi
 
-## Installation 
+## Installation
 
-### Installation de rust 
+### Installation de rust
 
-avec rustup 
+avec rustup
 
 $ curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 
-=> gemini://gemini.boizot.ch/log-rust-install.gmi le log de l'installation rust
+=> log-rust-install.gmi le log de l'installation rust
 
 ### Installation d'agate
 
 $ cargo install agate
 
-=> gemini://gemini.boizot.ch/log-agate-cargo.gmi le log de l'installation agate
+=> log-agate-cargo.gmi le log de l'installation agate
 
 ## parametrage.
 
 ### création du certificat auto-signé
 
 $ openssl req -x509 -newkey rsa:4096 -keyout key.rsa -out cert.pem -days 3650 -nodes -subj "/CN=gemini.boizot.ch"
-
-

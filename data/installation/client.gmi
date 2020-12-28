@@ -1,36 +1,36 @@
 ## Installation d'un client
 
 J'ai choisi d'installer le client graphique : castor
-![castor](../images/castor-1.png)
+=> http://boizot.ch/divers/blogs/images/castor-1.png voir l'interface
 
-Toutes les informations sur le procéssus d'installation sont sur le site de 
-=> https://git.sr.ht/~julienxx/castor julienxxx
+Toutes les informations sur le procéssus d'installation sont sur le site de
+=> https://git.sr.ht/~julienxx/castor julienxx
 
 ## trace de compilation
 
-    masterdeb:/u03/projet/castor-0.8.16# **make**    
-    cargo build --release    
-    Compiling gdk-sys v0.9.    
-    Compiling gdk-pixbuf v0.8.0    
-    Compiling rand_chacha v0.2.2    
-    Compiling pin-project v0.4.22    
-    Compiling gdk-pixbuf-sys v0.9.1    
-    Compiling native-tls v0.2.4    
-    Compiling futures-util v0.3.5     
-    Compiling gtk-sys v0.9.2       
-    Compiling gdk v0.12.    
-    Compiling gtk v0.8.1    
-    Compiling rand v0.7.    
-    Compiling tempfile v3.1.0    
-    Compiling futures-executor v0.3.5     
-    Compiling glib v0.9.3    
-    Compiling gio v0.8.1    
-    Compiling pango v0.8.    
-    Compiling cairo-rs v0.8.1    
-    Compiling atk v0.8.0    
-    Compiling castor v0.8.15 (/u03/projet/castor-0.8.16)    
+    masterdeb:/u03/projet/castor-0.8.16# **make**
+    cargo build --release
+    Compiling gdk-sys v0.9.
+    Compiling gdk-pixbuf v0.8.0
+    Compiling rand_chacha v0.2.2
+    Compiling pin-project v0.4.22
+    Compiling gdk-pixbuf-sys v0.9.1
+    Compiling native-tls v0.2.4
+    Compiling futures-util v0.3.5
+    Compiling gtk-sys v0.9.2
+    Compiling gdk v0.12.
+    Compiling gtk v0.8.1
+    Compiling rand v0.7.
+    Compiling tempfile v3.1.0
+    Compiling futures-executor v0.3.5
+    Compiling glib v0.9.3
+    Compiling gio v0.8.1
+    Compiling pango v0.8.
+    Compiling cairo-rs v0.8.1
+    Compiling atk v0.8.0
+    Compiling castor v0.8.15 (/u03/projet/castor-0.8.16)
 
-    Finished release [optimized] target(s) in 1m    
+    Finished release [optimized] target(s) in 1m
 
 ## Trace de d'installation
 

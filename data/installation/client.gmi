@@ -2,6 +2,7 @@
 
 J'ai choisi d'installer le client graphique : castor
 => http://boizot.ch/divers/blogs/images/castor-1.png voir l'interface
+=> images/castor-1.png l'interface :-)
 
 Toutes les informations sur le procéssus d'installation sont sur le site de
 => https://git.sr.ht/~julienxx/castor julienxx

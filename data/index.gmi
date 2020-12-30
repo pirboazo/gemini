@@ -14,12 +14,12 @@ Promouvoir un web léger sans traçage. c'est à dire sans cookie, sans publicit
 gemini c'est un protocole d'échange au même titre que HTTP qui définit la nature des change entre un client et un serveur.
 le site ci-dessous en donne la sécification.
 
-=> gemini://gemini.circumlunar.space/docs/specification.gmi
-=> gemini://purexo.mom/blog/2020/12-01-reflexions-autour-de-gemini.gmi
+=> gemini://gemini.circumlunar.space/docs/specification.gmi la spécification
+=> gemini://purexo.mom/blog/2020/12-01-reflexions-autour-de-gemini.gmi réflexions
 
 ### gemtext
 Un langage de balisage simple dont la spécification tient en quelques lignes
-=> gemtext/antisèche.gmail
+=> gemtext/antisèche.gmi
 
 Toutefois il est possible de fournir d'autres fichiers.
 

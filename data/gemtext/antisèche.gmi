@@ -1,0 +1,39 @@
+## L'antisèche Gemtext
+
+Les règles de base en Gemtext:
+
+* Les lignes longues sont traitées par le client pour tenir dans la page.
+
+* Les  lignes ne sont pas concaténées
+
+* Les lignes vides sont rendues tel quelle.
+
+* les paragraphes sont une longue ligne.
+
+Il y a trois niveaux de titre.
+
+# Titre
+
+## Sous-titre
+
+### Sous-sous-titre
+
+Une seule sorte de liste non ordonnée.
+Comme ci-dessus
+
+Le signe > permets de mettre en relief les citations.
+> “Internet sera à l'économie du 21è siècle ce que l'essence fut au 20è siècle.
+
+'''
+* Les lignes vides sont rendues tel quelle.
+
+* les paragraphes sont une longue ligne.
+
+Il y a trois niveaux de titre.
+
+# Titre
+
+## Sous-titre
+
+### Sous-sous-titre
+'''

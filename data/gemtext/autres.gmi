@@ -1,0 +1,7 @@
+## photo.
+ => castor-1.png l'interface castor :-)
+
+## lecture d'un texte
+=> AvoirEtre.mp3 Avoir et être.
+
+....

@@ -19,7 +19,7 @@ le site ci-dessous en donne la sécification.
 
 ### gemtext
 Un langage de balisage simple dont la spécification tient en quelques lignes
-=> gemtext/antisèche.gmi
+=> gemtext/antiseche.gmi antisèche
 
 Toutefois il est possible de fournir d'autres fichiers.
 
@@ -32,7 +32,7 @@ Toutefois il est possible de fournir d'autres fichiers.
 * Des pdf ou des epubs
 
 Des exemples dans la pages suivantes:
-=>
+=> gemtext/autres.gmi exemples
 
 Puis de décrire l'installation
 

@@ -24,7 +24,9 @@ Comme ci-dessus
 Le signe > permets de mettre en relief les citations.
 > “Internet sera à l'économie du 21è siècle ce que l'essence fut au 20è siècle.
 
-'''
+les trois ``` caractèes suivant supprime le formatage.
+
+```
 * Les lignes vides sont rendues tel quelle.
 
 * les paragraphes sont une longue ligne.
@@ -36,4 +38,6 @@ Il y a trois niveaux de titre.
 ## Sous-titre
 
 ### Sous-sous-titre
-'''
+```
+
+=> ../ retour

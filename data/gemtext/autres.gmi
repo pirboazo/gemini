@@ -21,7 +21,10 @@
 => AvoirEtre.mp3 Avoir et être.
 
 ## un pdf
-=> rfc7764.pdf
+=> rfc7764.pdf rfc au sujet de MarkDown
+
+### conclusion
+On accede à tout, votre desktop lancera la bonne application pour lire les données.
 
 
 ....

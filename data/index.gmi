@@ -1,8 +1,8 @@
-# Bienvenue sur le gemini de boizot.ch
+# Bienvenue sur mon site gemini 
 
 ## Quelques Mots
 
-Cette page est dédiée à la découverte et essai avec le protocole gemini.
+Cette page est temoraire et est dédiée à la découverte et essai avec le protocole gemini.
 
 je vais dans cette page tenter de décrire les objectifs et les moyens pour les atteindre .
 
@@ -22,16 +22,7 @@ Un langage de balisage simple dont la spécification tient en quelques lignes
 => gemtext/antiseche.gmi antisèche
 
 Toutefois il est possible de fournir d'autres fichiers.
-
-* text/plain
-* text/markdown
-* text/x-rst (reStructuredText)
-* De l'audio
-* Des images de chatons mignons
-* De la vidéo
-* Des pdf ou des epubs
-
-Des exemples dans la pages suivantes:
+Voici des exemples dans la page suivante:
 => gemtext/autres.gmi exemples
 
 Puis de décrire l'installation
@@ -47,9 +38,15 @@ Puis de décrire l'installation
 => mercredifiction/ Lire
 
 
-## Les liens
+## Des liens
+### gemini
 => gemini://gemini.circumlunar.space/ Le site du Projet Gemini
 => gemini://gemini.bortzmeyer.org/ Bortzmeyer.org [en]
 => gemini://gemeaux.bortzmeyer.org/ Bortzmeyer.org [fr]
+=> gemini://gemini.conman.org/test/torture/ Lcient Torture test.
 
+### gemini sur le proxy web
+=> https://portal.mozz.us/gemini/gemeaux.bortzmeyer.org/
+
+### des liens web.
 => http://www.boizot.ch/ mon site perso

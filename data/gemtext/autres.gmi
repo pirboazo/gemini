@@ -1,7 +1,27 @@
+# Une Liste non exhaustive
+
+* text/plain
+* text/markdown
+* text/x-rst (reStructuredText)
+* De l'audio
+* Des images de chatons mignons
+* De la vidéo
+* Des pdf ou des epubs
+
+## texte/brut
+=> citations.txt
+
+## Qui suis-je?
+=> Boipi-Sigre.md
+
 ## photo.
- => castor-1.png l'interface castor :-)
+=> castor-1.png l'interface castor :-)
 
 ## lecture d'un texte
 => AvoirEtre.mp3 Avoir et être.
+
+## un pdf
+=> rfc7764.pdf
+
 
 ....

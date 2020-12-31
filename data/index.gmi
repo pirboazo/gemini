@@ -1,8 +1,8 @@
-# Bienvenue sur mon site gemini 
+# Bienvenue sur mon site gemini
 
 ## Quelques Mots
 
-Cette page est temoraire et est dédiée à la découverte et essai avec le protocole gemini.
+Cette page est temporaire et dédiée à la découverte et essai avec le protocole gemini.
 
 je vais dans cette page tenter de décrire les objectifs et les moyens pour les atteindre .
 

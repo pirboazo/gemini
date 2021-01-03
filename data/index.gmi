@@ -1,40 +1,75 @@
 # Bienvenue sur mon site gemini
 
-## Quelques Mots
+## Quelques Mots d'introduction
 
-Cette page est temporaire et dédiée à la découverte et essai avec le protocole gemini.
+Cette page d'accueil de mon site gemini est dédiée à la découverte et aux essais avec le protocole gemini.
+je vais  tenter de décrire les objectifs et les moyens pour les atteindre.
 
-je vais dans cette page tenter de décrire les objectifs et les moyens pour les atteindre .
-
+### Le but
 Promouvoir un web léger sans traçage. c'est à dire sans cookie, sans publicité, sans inscription.
-
 
 ### le protocole
 
-gemini c'est un protocole d'échange au même titre que HTTP qui définit la nature des change entre un client et un serveur.
-le site ci-dessous en donne la sécification.
+gemini c'est un protocole d'échange au même titre que HTTP qui définit la nature des échanges entre un client et un serveur.
+le site ci-dessous en donne la spécification.
 
 => gemini://gemini.circumlunar.space/docs/specification.gmi la spécification
 => gemini://purexo.mom/blog/2020/12-01-reflexions-autour-de-gemini.gmi réflexions
+
+Comme html est associé à http un langage de description de page fait partie du protocole, gemtext.
 
 ### gemtext
 Un langage de balisage simple dont la spécification tient en quelques lignes
 => gemtext/antiseche.gmi antisèche
 
 Toutefois il est possible de fournir d'autres fichiers.
+
 Voici des exemples dans la page suivante:
 => gemtext/autres.gmi exemples
 
-Puis de décrire l'installation
+## Accéder, Lire, servir du gemini.
 
-*  d'un client gemini.
-*  d'un serveur
+Pour accéder à une resource (capsule) gemini il faut un client.
+et l'adresse d'un serveur dont la notation est gemini://nom_domaine.
 
-=> installation/client.gmi l'installation client
-=> installation/serveur.gmi l'installation serveur
+si vous n'avez pas installé de client gemini vous pouvez consulter les capsules gemini grace à un proxy-web.
+ comme https://portal.mozz.us/gemini
 
-## Mes Mercredi fictions
+###  Installation d'un client
+c'est très dépendant de votre OS et si vous êtes sous linux de votre distribution.
+voici une liste de quelques clients.
+=> https://tildegit.org/solderpunk/AV-98 av98 terminal-text
+=> https://github.com/makeworld-the-better-one/amfora amfora terminal-gemtext
+=> https://git.sr.ht/~julienxx/asuka asuka terminal-text-n-curse
+=> https://random-projects.net/projects/kristall.gemini kristall graphique
+=> https://sr.ht/~julienxx/Castor
 
+Aucun n'a de package sous debian 10.7
+Tous ont un package sous nixos 20.09
+
+Mais souvent facilement installable
+=> installation/client.gmi l'installation de castor
+
+On trouve déjà sous android des lecteurs sur f-droid ou play-store Google.
+* ariane
+* Deedum
+
+
+### Installation d'un serveur.
+C'est le passage obligé pour publier .
+ils sont nombreux , plus ou moins configurables ...
+
+=> https://git.sr.ht/~int80h/gemserv gemserv
+=> https://github.com/mbrubeck/agate/ agate
+=> https://tildegit.org/solderpunk/molly-brown moly-brown
+=> https://git.sr.ht/~julienxx/pollux pollux
+
+Pour l'instant j'ai choisi agate . 
+=> installation/serveur.gmi l'installation de agate
+
+## Un essai
+
+### Mes Mercredi fictions
 => mercredifiction/ Lire
 
 
